@@ -1,0 +1,51 @@
+region,state,displaced workers,reemployed,unemployed,not in labor force
+east south central,alabama,184,134,13,38
+pacific,alaska,449,312,77,60
+mountain,arizona,206,128,33,45
+west south central,arkansas,377,244,53,80
+pacific,california,449,312,77,60
+mountain,colorado,206,128,33,45
+new england,Connecticut,183,122,31,30
+middle atlantic,Delaware,362,247,59,56
+south atlantic,florida,541,358,73,110
+south atlantic,georgia,541,358,73,110
+pacific,hawaii,449,312,77,60
+mountain,idaho,206,128,33,45
+east north central,Illinois,470,295,72,103
+east north central,Indiana,470,295,72,103
+west north central,Iowa,209,139,19,51
+west north central,Kansas,209,139,19,51
+east south central,kentucky,184,134,13,38
+west south central,louisiana,377,244,53,80
+new england,Maine,183,122,31,30
+middle atlantic,Maryland,362,247,59,56
+new england,Massachusetts,183,122,31,30
+east north central,Michigan,470,295,72,103
+west north central,Minnesota,209,139,19,51
+east south central,mississippi,184,134,13,38
+west north central,Missouri,209,139,19,51
+mountain,montana,206,128,33,45
+west north central,Nebraska,209,139,19,51
+mountain,nevada,206,128,33,45
+new england,New Hampshire,183,122,31,30
+middle atlantic,New Jersey,362,247,59,56
+mountain,new mexico,206,128,33,45
+middle atlantic,New York,362,247,59,56
+south atlantic,north carolina,541,358,73,110
+west north central,north dakota,209,139,19,51
+east north central,Ohio,470,295,72,103
+west south central,oklahoma,377,244,53,80
+pacific,oregon,449,312,77,60
+middle atlantic,Pennsylvania,362,247,59,56
+new england,Rhode Island,183,122,31,30
+south atlantic,south carolina,541,358,73,110
+west north central,south dakota,209,139,19,51
+east south central,tennessee,184,134,13,38
+west south central,texas,377,244,53,80
+mountain,utah,206,128,33,45
+new england,Vermont,183,122,31,30
+middle atlantic,Virginia,362,247,59,56
+pacific,washington,449,312,77,60
+middle atlantic,West Virginia,362,247,59,56
+east north central,Wisconsin,470,295,72,103
+mountain,wyoming,206,128,33,45
